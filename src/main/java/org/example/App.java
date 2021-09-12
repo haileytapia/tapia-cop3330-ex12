@@ -12,7 +12,7 @@ public class App
     public static void main(String[] args)
     {
         int principal, numYears;
-        double rateOfInterest, simpleInterest, amtAccrued;
+        double rateOfInterest, simpleInterest;
         Scanner input = new Scanner(System.in);
 
         System.out.print("Enter the principal: ");
